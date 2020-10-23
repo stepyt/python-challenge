@@ -2,7 +2,7 @@
 
 A set of challenges to test coding and problem solving skills in Python
 
-## Album Art Stats
+## 1. Album Art Stats
 
 Your job is to compute the number of pictures per each albumId.
 
@@ -12,14 +12,14 @@ Your application should fetch the data at that URL, parse it as JSON and then st
 
 You should then compute and print, for each albumId, the number of pictures available
 
-# What to deliver
+### What to deliver
 
 A fork of this git repository with the source code plus a DOCUMENTATION.md that explains how to configure and run your application
 
 Anything else not specified is up to you :)
 
 
-## News Scraper
+## 2. News Scraper
 
 Your job is to scrape the news page at this URL: http://www.uraniabasket.it/news to extract the follwing information:
  - Title
@@ -30,7 +30,7 @@ Your job is to scrape the news page at this URL: http://www.uraniabasket.it/news
 
 and store them into MongoDB
 
-# What to deliver
+### What to deliver
 
 A proper git repository set up with:
  - virtualenv + pip for dependency management
